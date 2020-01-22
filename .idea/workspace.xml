@@ -11,20 +11,19 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="MidTermWeekDaysDecember2019" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1386" />
-    <option name="height" value="788" />
   </component>
   <component name="ProjectId" id="1Wch2pl3KXR9AUnHAHb8PmrXRCG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -37,15 +36,27 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579131214053" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="string.problems" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="string.problems" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="math.problems" />
     </key>
@@ -55,13 +66,65 @@
       <recent name="G:\SOFTWARE ENGINEERING\PROJECTS\IdeaProjects\PNT\MidTermWeekDaysDecember2019\lib" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="CsvReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codelab.status.CsvReader" />
+  <component name="RunManager" selected="Application.UnitTestingStringProblem">
+    <configuration name="DetermineLargestWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.problems.DetermineLargestWord" />
       <module name="MidTermWeekDaysDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codelab.status.*" />
+          <option name="PATTERN" value="string.problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DuplicateWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.problems.DuplicateWord" />
+      <module name="MidTermWeekDaysDecember2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.problems.Palindrome" />
+      <module name="MidTermWeekDaysDecember2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.problems.Permutation" />
+      <module name="MidTermWeekDaysDecember2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitTestingStringProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.problems.UnitTestingStringProblem" />
+      <module name="MidTermWeekDaysDecember2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,7 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CsvReader" />
+        <item itemvalue="Application.UnitTestingStringProblem" />
+        <item itemvalue="Application.Permutation" />
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.DuplicateWord" />
+        <item itemvalue="Application.DetermineLargestWord" />
       </list>
     </recent_temporary>
   </component>
@@ -111,9 +178,116 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="108" y="83" key="SettingsEditor" timestamp="1579454961264">
+    <state x="524" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579455472186">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="524" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.960@0.23.1680.960" timestamp="1579455472186" />
+    <state x="322" y="218" key="#com.intellij.ide.util.MemberChooser" timestamp="1579520710395">
       <screen x="0" y="23" width="1680" height="958" />
     </state>
+    <state x="322" y="218" key="#com.intellij.ide.util.MemberChooser/0.23.1680.958@0.23.1680.958" timestamp="1579520710395" />
+    <state x="39" y="94" key="CommitChangelistDialog2" timestamp="1579518163429">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="39" y="94" key="CommitChangelistDialog2/0.23.1680.958@0.23.1680.958" timestamp="1579518163429" />
+    <state width="1184" height="237" key="GridCell.Tab.0.bottom" timestamp="1579721909452">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1184" height="237" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1579721909452" />
+    <state width="1128" height="187" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1579511383965" />
+    <state width="1393" height="115" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1579591674526" />
+    <state width="1954" height="126" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1579630407850" />
+    <state width="1107" height="317" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1579662371940" />
+    <state width="747" height="126" key="GridCell.Tab.0.bottom/0.23.1680.963@0.23.1680.963" timestamp="1579654320244" />
+    <state width="1184" height="237" key="GridCell.Tab.0.center" timestamp="1579721909451">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1184" height="237" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1579721909451" />
+    <state width="1128" height="187" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1579511383964" />
+    <state width="1393" height="115" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1579591674525" />
+    <state width="1954" height="126" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1579630407848" />
+    <state width="1107" height="317" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1579662371939" />
+    <state width="747" height="126" key="GridCell.Tab.0.center/0.23.1680.963@0.23.1680.963" timestamp="1579654320244" />
+    <state width="1184" height="237" key="GridCell.Tab.0.left" timestamp="1579721909450">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1184" height="237" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1579721909450" />
+    <state width="1128" height="187" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1579511383964" />
+    <state width="1393" height="115" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1579591674524" />
+    <state width="1954" height="126" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1579630407847" />
+    <state width="1107" height="317" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1579662371939" />
+    <state width="747" height="126" key="GridCell.Tab.0.left/0.23.1680.963@0.23.1680.963" timestamp="1579654320243" />
+    <state width="1184" height="237" key="GridCell.Tab.0.right" timestamp="1579721909451">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1184" height="237" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1579721909451" />
+    <state width="1128" height="187" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1579511383965" />
+    <state width="1393" height="115" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1579591674526" />
+    <state width="1954" height="126" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1579630407849" />
+    <state width="1107" height="317" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1579662371940" />
+    <state width="747" height="126" key="GridCell.Tab.0.right/0.23.1680.963@0.23.1680.963" timestamp="1579654320244" />
+    <state width="1107" height="317" key="GridCell.Tab.1.bottom" timestamp="1579662371941">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1107" height="317" key="GridCell.Tab.1.bottom/0.23.1680.958@0.23.1680.958" timestamp="1579557436926" />
+    <state width="1107" height="317" key="GridCell.Tab.1.bottom/0.23.1680.961@0.23.1680.961" timestamp="1579662371941" />
+    <state width="1107" height="317" key="GridCell.Tab.1.center" timestamp="1579662371941">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1107" height="317" key="GridCell.Tab.1.center/0.23.1680.958@0.23.1680.958" timestamp="1579557436925" />
+    <state width="1107" height="317" key="GridCell.Tab.1.center/0.23.1680.961@0.23.1680.961" timestamp="1579662371941" />
+    <state width="1107" height="317" key="GridCell.Tab.1.left" timestamp="1579662371940">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1107" height="317" key="GridCell.Tab.1.left/0.23.1680.958@0.23.1680.958" timestamp="1579557436925" />
+    <state width="1107" height="317" key="GridCell.Tab.1.left/0.23.1680.961@0.23.1680.961" timestamp="1579662371940" />
+    <state width="1107" height="317" key="GridCell.Tab.1.right" timestamp="1579662371941">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1107" height="317" key="GridCell.Tab.1.right/0.23.1680.958@0.23.1680.958" timestamp="1579557436926" />
+    <state width="1107" height="317" key="GridCell.Tab.1.right/0.23.1680.961@0.23.1680.961" timestamp="1579662371941" />
+    <state x="108" y="82" key="SettingsEditor" timestamp="1579714349445">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="108" y="82" key="SettingsEditor/0.23.1680.947@0.23.1680.947" timestamp="1579714349445" />
     <state x="108" y="83" key="SettingsEditor/0.23.1680.958@0.23.1680.958" timestamp="1579454961264" />
+    <state x="108" y="83" key="SettingsEditor/0.23.1680.960@0.23.1680.960" timestamp="1579584624500" />
+    <state width="577" height="445" key="SwitcherDM" timestamp="1579518436619">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="577" height="445" key="SwitcherDM/0.23.1680.958@0.23.1680.958" timestamp="1579518436619" />
+    <state x="731" y="330" key="com.intellij.ide.util.TipDialog" timestamp="1579713456616">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="731" y="330" key="com.intellij.ide.util.TipDialog/0.23.1680.947@0.23.1680.947" timestamp="1579713456616" />
+    <state x="731" y="333" key="com.intellij.ide.util.TipDialog/0.23.1680.956@0.23.1680.956" timestamp="1579510027131" />
+    <state x="602" y="235" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1579557519429">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="602" y="235" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1680.956@0.23.1680.956" timestamp="1579512583727" />
+    <state x="602" y="235" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1680.958@0.23.1680.958" timestamp="1579557519429" />
+    <state x="247" y="262" key="extract.method.dialog" timestamp="1579518313132">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="247" y="262" key="extract.method.dialog/0.23.1680.958@0.23.1680.958" timestamp="1579518313132" />
+    <state x="139" y="226" width="837" height="550" key="find.popup" timestamp="1579563146329">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="139" y="226" width="837" height="550" key="find.popup/0.23.1680.960@0.23.1680.960" timestamp="1579563146329" />
+    <state x="476" y="161" width="1081" height="755" key="new project wizard" timestamp="1579656566894">
+      <screen x="0" y="23" width="1680" height="966" />
+    </state>
+    <state x="476" y="161" width="1081" height="755" key="new project wizard/0.23.1680.963@0.23.1680.963" timestamp="1579656416757" />
+    <state x="476" y="161" key="new project wizard/0.23.1680.966@0.23.1680.966" timestamp="1579656566894" />
+    <state x="263" y="112" key="refactoring.ChangeSignatureDialog" timestamp="1579721664134">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="263" y="112" key="refactoring.ChangeSignatureDialog/0.23.1680.947@0.23.1680.947" timestamp="1579721664134" />
+    <state x="263" y="114" key="refactoring.ChangeSignatureDialog/0.23.1680.960@0.23.1680.960" timestamp="1579581330630" />
+    <state x="263" y="114" key="refactoring.ChangeSignatureDialog/0.23.1680.963@0.23.1680.963" timestamp="1579652269657" />
+    <state x="400" y="234" width="670" height="676" key="search.everywhere.popup" timestamp="1579569382950">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="400" y="234" width="670" height="676" key="search.everywhere.popup/0.23.1680.958@0.23.1680.958" timestamp="1579569382950" />
   </component>
 </project>
